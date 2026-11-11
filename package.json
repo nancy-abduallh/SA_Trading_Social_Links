@@ -1,0 +1,13 @@
+{
+  "name": "sa-trading-social-links",
+  "version": "1.0.0",
+  "description": "SA Trading Social Links Page",
+  "main": "index.html",
+  "scripts": {
+    "start": "npx serve .",
+    "build": "echo 'Static site, no build needed'"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
